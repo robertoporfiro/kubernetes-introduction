@@ -1,4 +1,4 @@
-# kubernetes-introductions
+# kubernetes-introduction
 Notes about Kubernetes
 
 ### KodeKloud - Kubernetes Concepts Explained in 9 minutes!

@@ -24,3 +24,6 @@ You'll need to create two kinds of objects:
 A Role or ClusterRole object that defines what resource types and operations are allowed for a set of users.
 A RoleBinding or ClusterRoleBinding that associates the Role (or ClusterRole) with one or more specific users.
 RBAC permissions are purely additive there are no "deny" rules. When structuring your RBAC permissions, you should think in terms of "granting" users access to cluster resources.
+
+![alt text](https://8gwifi.org/docs/img/rolebased.png)
+

@@ -9,3 +9,6 @@ Notes about Kubernetes
 
 ### - Introduction to Microservices, Docker, and Kubernetes
   https://youtu.be/1xo-0gCVhTU
+
+### CNCF [Cloud Native Computing Foundation] - Effective RBAC - Jordan Liggitt, Red Hat
+  https://youtu.be/Nw1ymxcLIDI
